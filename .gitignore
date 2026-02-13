@@ -1,0 +1,11 @@
+# PlatformIO
+.pio/
+.vscode/
+*.elf
+*.bin
+*.hex
+
+# Build artifacts
+build/
+dist/
+
